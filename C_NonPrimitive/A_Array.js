@@ -4,7 +4,7 @@
 
 let Actors = ["ajith","vijay","rajini","kamal","sivakarthikeyan"]
 let salaryBasic = [50000,60000,70000,90000,80000]
-
+console.log("actors===>", Actors[1])
 
 
 
