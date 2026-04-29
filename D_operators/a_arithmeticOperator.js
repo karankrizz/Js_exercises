@@ -1,9 +1,0 @@
-const a = 90;
-const b = 2000;
-
-console.log("add ====>", a + b )
-console.log("sub ====>", a - b )
-console.log("mul ====>", a * b )
-console.log("division ====>", a / b )
-console.log("mod ====>", a % b )
-console.log("power ====>", a ** b )
