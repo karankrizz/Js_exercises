@@ -1,6 +1,6 @@
   var marks = 35;
 
-    if (marks >= 45) {
+    if (marks >= 95) {
         console.log("well passed");
     }
      else if (marks >= 35) {
@@ -13,7 +13,7 @@
     //--------//
       var marks = 25;
 
-    if (marks >= 45) {
+    if (marks >= 95) {
         console.log("well passed");
     }
      else if (marks >= 35) {
@@ -25,7 +25,7 @@
     //------//
       var marks = 55;
 
-    if (marks >= 45) {
+    if (marks >= 95) {
         console.log("well passed");
     }
      else if (marks >= 35) {
