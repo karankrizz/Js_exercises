@@ -3,7 +3,7 @@
 let text = "Hi This is kirubhakaran"
 
 for(let letter in text){
-      //console.log("letter====>",text.charAt(letter))
+    console.log("letter====>",text.charAt(letter))
 }
 
 
@@ -13,5 +13,5 @@ for(let letter in text){
 let icecreams = ["vennila ", "chocolate", "blackcurrant", "butterscotch"];
 
 for(let item in icecreams){
-    console.log("item===>",icecreams.at(item) )
+    //console.log("item===>",icecreams.at(item) )
 }
