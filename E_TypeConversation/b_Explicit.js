@@ -23,11 +23,6 @@ var result  = firstNumber + secondNumber;
 
 console.log(result)
 
-var firstNumber = 600
-var secondNumber = 5160
-var result  = String(firstNumber) + secondNumber; 
-console.log(result)
-
 /* Example 3 : Boolean conversation */
 
 var productAvailable = 1
