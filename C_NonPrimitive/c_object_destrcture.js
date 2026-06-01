@@ -13,12 +13,6 @@
    console.log("student age===>",student_age)
    console.log("student school===>",student_school)
 
-
-
-
-
-
-
 /* Example 2 -  object destrcture */
  
 const collage = {
@@ -42,5 +36,5 @@ const {firstSem,secondSem,finalSem} = records
 
 console.log("collage name ===>",name)
 console.log("collage location====>",location)
-console.log("Branches====>",ourBranches)
+console.log("Branches====>",ourBranches[0])
 console.log("collage records====>",firstSem)
