@@ -23,7 +23,7 @@
         console.log("fail");
     }
     //------//
-      var marks = 55;
+      var marks = 96;
 
     if (marks >= 95) {
         console.log("well passed");
