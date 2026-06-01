@@ -1,6 +1,7 @@
-let produtAvailabe = true;
-let personliveStatus = false;
+//BOOLEAN DATATYPE EXPLANATION
 
-let kollamTrainStatus = false;
+let trainAvailabe = true
 
-console.log("kollamTrainStatus ===>",typeof kollamTrainStatus)
+let kollamTrainStatus = false
+
+console.log("kollamTrainStatus ===>"+ typeof kollamTrainStatus)
