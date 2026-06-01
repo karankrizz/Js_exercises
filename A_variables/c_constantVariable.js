@@ -1,7 +1,5 @@
-
-
 const bottle = "milk";
-// bottle = "water";
+// bottle = "water";   // cant reassign ......
 
 const plasticCover = "corianderPowder";
 
