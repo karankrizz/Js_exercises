@@ -4,11 +4,9 @@ var y = 100
 
 var a = 500
 var b = 600
-var r= 50
-var k=50
+
 /* Example : AND */
 console.log((x == y) && (a == b))                 
-console.log( (x==y) && (r==k))
 
 /*  Example : OR */
 
