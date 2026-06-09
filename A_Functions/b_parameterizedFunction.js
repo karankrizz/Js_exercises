@@ -4,9 +4,9 @@ function sumofCalulation(firstNumber,secondNumber){
   return firstNumber + secondNumber
 }
 
-let sumofResult = sumofCalulation();
+let sumofResult = sumofCalulation(100,200);
 
-//console.log("sumofresult===>",sumofResult)
+console.log("sumofresult===>",sumofResult)
 
 /* Example 2 Simple Default Value */
 
@@ -24,6 +24,7 @@ function intersetCalc( loanType="home-loan",principalAmount, interestRate=8 ){
  
   let accurateInterestAmount = principalAmount * interestRate / 100;
   let emiAmount = principalAmount + accurateInterestAmount
+  console.log(loanType)
   return emiAmount
 }
 
