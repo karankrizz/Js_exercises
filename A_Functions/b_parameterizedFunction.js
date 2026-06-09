@@ -24,7 +24,7 @@ function intersetCalc( loanType="home-loan",principalAmount, interestRate=8 ){
  
   let accurateInterestAmount = principalAmount * interestRate / 100;
   let emiAmount = principalAmount + accurateInterestAmount
-  console.log(loanType)
+  
   return emiAmount
 }
 
