@@ -14,8 +14,8 @@ function subraction(a = 5, b = 55) {
     return a + b;
 }
 
-let subractionResult1 = subraction(5, 63);        // your param result = 5
-let subractionResult2 = subraction();            //  default result = 6
+let subractionResult1 = subraction(5, 63);       
+let subractionResult2 = subraction();           
 console.log("result1==>",subractionResult1)
 console.log("result2==>",subractionResult2)
 
