@@ -11,7 +11,6 @@ const sutdentResult = (m1,m2,m3) => {
     let marks = [m1,m2,m3]
     let avg   = total / 3 
     let result;
-    console.log(m2)
 
     for(let i=0; i<marks.length; i++) {
         if(marks[i] > 35){
@@ -36,6 +35,6 @@ const sutdentResult = (m1,m2,m3) => {
 }
 
 
-let result = sutdentResult(100,94,80)  // call by value
+let result = sutdentResult(100,4,80)  // call by value
 
 console.log(result)
