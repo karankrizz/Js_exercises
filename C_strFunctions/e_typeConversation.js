@@ -1,21 +1,21 @@
-let str = "Hello World";
-let splitStr = str.split(""); 
+let str = "Hello kirubha karan";
+let splitStr = str.split(" "); 
 
-//console.log(splitStr)
+console.log(splitStr)
 
-let str1 = "Saravanan"
+let str1 = "kirubhakaran"
 let splitStr1 = str1.split("")
 
-//console.log(splitStr1)  
+console.log(splitStr1)  
 
-let str2 = "Saravanan-Durai-is-a-software-developer"
-let splitStr2 = str2.split("-")
-
-
-//console.log(splitStr2)  
+let str2 = "kirubhakaran_ is _a _msc_ mathematics_ graduate"
+let splitStr2 = str2.split("_")
 
 
-let address = "2nd cross st, velachery, chennai 600042"
+ console.log(splitStr2)  
+
+
+let address = "420th cross st, kurukusanthu, dubai-696956"
 let splitStr3 = address.split(",")
 
 console.log(splitStr3)  
