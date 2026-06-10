@@ -1,4 +1,4 @@
-let orignalArr = [100,200,300,400,750]
+let orignalArr = [100,200,300,400,750,1000]
 
 let greaterThen500 = orignalArr.filter(
     (value,index,arr) => {
