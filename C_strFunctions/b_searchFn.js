@@ -5,4 +5,4 @@ let isAvailablestatus = str.includes(findText)     // true
 
 let index = str.indexOf(findText)                          
 
-console.log("index====>",index)
+console.log("index====>",isAvailablestatus)
