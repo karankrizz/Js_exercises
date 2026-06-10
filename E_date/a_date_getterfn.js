@@ -1,6 +1,6 @@
 let timeStamp = new Date();
 
-
+console.log(timeStamp )
 
 
 let year = timeStamp.getFullYear()
@@ -12,7 +12,7 @@ let day = timeStamp.getDay()
 
 
 
-console.log("currentDate===>",currentDate+10)
+console.log("currentDate===>",currentDate)
 
 
 
