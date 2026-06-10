@@ -1,21 +1,21 @@
 
     const user = {
-        "name": "Saravanan",
-        "lastName" : "Durai",
+        "name": "kirubha",
+        "lastName" : "karan",
         "age": 25,
         "isLoggedIn": true,
-        fullName(){
+        fullName: function(){
             return this.name + " " + this.lastName
         }
          
     };
 
-    user.city = "Bangalore";           // add-value
-    user.age = 28                      // update-value
+    user.city = "chennai";           // add-value
+    user.age = 26                      // update-value
     delete user.isLoggedIn             // delete value
     
     let name =  user.fullName()
- 
+    console.log(user.city)
     console.log("name====>",name)
 
     

@@ -1,7 +1,7 @@
     
     const user = {
-        "name": "Saravanan",
-        "lastName" : "Durai",
+        "name": "kirubha",
+        "lastName" : "karan",
         "age": 25,
         "isLoggedIn": true,
         fullName(){
